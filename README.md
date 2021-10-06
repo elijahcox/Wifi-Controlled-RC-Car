@@ -1,5 +1,5 @@
 # Wifi-Controlled-RC-Car
-This is a solo project that I completed for CSCE-462 (Microcontroller systems) last semester. 
+This is a project that I completed for CSCE-462 (Microcontroller systems) last semester. 
 It involves taking an original RC car from Amazon.com and converting it to be controlled remotely via SSH. It also features camera streaming capabilities.
 
 I achieved this by using a Raspberry Pi, a Pi camera module, two L298N motor drivers, a 12V rechargeable batttery, and a 3000 mAH portable power supply for the Pi.
@@ -10,4 +10,4 @@ It uses Pythons multiprocessing library to run a few processes simultaneously in
 
 In order to accurately control the car and to account for latency issues, pulse width modulation is utilized.
 
-To see a demo video, please see the included video file.
+To see a demo video with me presenting my project, please see https://www.youtube.com/watch?v=mvWpP7YVMHQ. This includes a first person view of driving the RC car.
